@@ -1,4 +1,4 @@
-# CodeALpha_Music_Generatoin_with_AI
+# CodeAlpha_Music_Generatoin_with_AI
 Music_Generatoin_with_AI
 ####################################################################################
 Task-1 Music Generation with AI :
